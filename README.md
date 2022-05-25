@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi I'm Alec
+
+I'm a Bristol based full stack developer.
+
+You can get in touch with me via the following electronic mailing address: [alechamilton.dev@gmail.com](mailto:alechamilton.dev@gmail.com)
+
+
 
 <!--
 **alec-hamilton/alec-hamilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
