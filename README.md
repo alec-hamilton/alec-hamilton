@@ -1,6 +1,6 @@
 ### Hi I'm Alec
 
-I'm a Melbourne based full stack developer.
+I'm a Melbourne based software engineer.
 
 You can get in touch with me via the following electronic mailing address: [alechamilton.dev@gmail.com](mailto:alechamilton.dev@gmail.com)
 
